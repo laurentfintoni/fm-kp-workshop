@@ -1,5 +1,7 @@
 # FAIR Memories x KiParla Workshop
 
+This repository is archived and has moved to [https://github.com/dharc-org/fm-kp-workshop](https://github.com/dharc-org/fm-kp-workshop).
+
 This repository contains the code for the event website for the FAIR Memories x KiParla workshop, composed of a Next.js application with Tailwind CSS. This code was adapted from a previous event website for the DHLandscapes event in 2025. 
 
 ## License
